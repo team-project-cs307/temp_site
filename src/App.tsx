@@ -39,10 +39,10 @@ function App() {
             <span className="dot green" />
           </div>
           <pre className="code-content">
-{`{
+            {`{
   "status": "in_development",
   "version": "0.0.1-alpha",
-  "launch": "2025"
+  "launch": "2026"
 }`}
           </pre>
         </div>
